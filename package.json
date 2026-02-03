@@ -9,7 +9,8 @@
     "assembly-lots": "node src/scripts/assemblyLots.js",
     "equipment-events": "node src/scripts/equipmentEvents.js",
     "equipment-status": "node src/scripts/equipmentStatus.js",
-    "final-test-lots": "node src/scripts/finalTestLots.js"
+    "final-test-lots": "node src/scripts/finalTestLots.js",
+    "assembly-split-lots": "node src/scripts/assemblySplitLots.js"
   },
   "keywords": ["nodejs", "postgresql"],
   "author": "",
