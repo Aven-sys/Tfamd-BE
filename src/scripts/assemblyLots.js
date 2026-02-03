@@ -1,6 +1,6 @@
 import 'dotenv/config';
-import AssemblyLotsService from './services/assemblyLotsService.js';
-import { closePool } from './config/database.js';
+import AssemblyLotsService from '../services/assemblyLotsService.js';
+import { closePool } from '../config/database.js';
 
 const JSON_FILE_PATH = './data/Assembly Lots.json';
 const BATCH_SIZE = parseInt(process.env.BATCH_SIZE) || 500;

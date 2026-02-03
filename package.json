@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "Node.js application with PostgreSQL connection pool",
   "type": "module",
-  "main": "src/assemblyLots.js",
+  "main": "src/scripts/assemblyLots.js",
   "scripts": {
-    "start": "node src/assemblyLots.js",
-    "assembly-lots": "node src/assemblyLots.js"
+    "start": "node src/scripts/assemblyLots.js",
+    "assembly-lots": "node src/scripts/assemblyLots.js"
   },
   "keywords": ["nodejs", "postgresql"],
   "author": "",
