@@ -7,7 +7,8 @@
   "scripts": {
     "start": "node src/scripts/assemblyLots.js",
     "assembly-lots": "node src/scripts/assemblyLots.js",
-    "equipment-events": "node src/scripts/equipmentEvents.js"
+    "equipment-events": "node src/scripts/equipmentEvents.js",
+    "equipment-status": "node src/scripts/equipmentStatus.js"
   },
   "keywords": ["nodejs", "postgresql"],
   "author": "",
